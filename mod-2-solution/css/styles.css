@@ -1,0 +1,46 @@
+.row {
+  margin: 50px, 50px, 50px, 50px;
+  
+}
+.row > div {
+  margin: 50px, 50px, 50px, 50px;
+  background-color: white;
+  color: black;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-top: 25px;
+}
+
+.food-label{
+  text-align: center;
+  border: 1px solid black;
+  color: black;
+  float: right;
+  font-weight: bold;
+  padding: 3px;
+  width: 100px;
+  font-size: 125%;
+}
+
+#chicken{background-color:rgb(200, 139, 149); }
+#Beef{background-color:rgb(156, 57, 57); color: white;}
+#Sushi{background-color:rgb(252, 224, 111); }
+
+#blank {
+  border: 0px solid black;
+  background-color: transparent;
+}
+
+.lorem{
+  border: 1px solid black;
+  background-color: grey;
+  padding: 10px;
+}
+
+.title {
+  text-align: center;
+  font-size:175%;
+  font-weight: bold;
+  color: black;
+  padding: 25px;
+}
+
